@@ -4,5 +4,5 @@ cat schools.html | sed  s/5c418/$MY_RAND/ > schools2.html
 mv schools2.html schools.html
 zip ../src.zip ./ -r
 cd ..
-node up.js 5c418/src.zip
+node up.js 5c418 src.zip
 exit 0
