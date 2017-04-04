@@ -219,7 +219,7 @@ h6 {
 @font-face {
     font-family: 'Icons';
     src: url('http://ocdn.eu/paas-static/nk/9923ed30ae5e2680edacf4038eec04a0/build/icons.eot');
-    src: url('http://ocdn.eu/paas-static/nk/9923ed30ae5e2680edacf4038eec04a0/build/icons.eot?#iefix') format('embedded-opentype'), 
+    src: url('http://ocdn.eu/paas-static/nk/9923ed30ae5e2680edacf4038eec04a0/build/icons.eot?#iefix') format('embedded-opentype'),
 	url('http://ocdn.eu/paas-static/nk/9923ed30ae5e2680edacf4038eec04a0/build/icons.woff') format('woff');
     font-weight: normal;
     font-style: normal
@@ -1235,7 +1235,7 @@ body {
 }
 .footer__content {
     margin-top: 20px;
-    background-color: #1565c0
+    background-color: #FF69B4;
 }
 .footer__links,
 .footer__info {
